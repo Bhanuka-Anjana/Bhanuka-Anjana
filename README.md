@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhanuka Anjana</h1>
 <h3 align="center">Diving deep into the realms of Embedded Systems, Control Systems, Robotics, and Software Engineering for innovative solutions.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.flaticon.com/free-icons/robot" title="robot icons"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanu-2500&label=Profile%20views&color=0e75b6&style=flat" alt="bhanu-2500" /> </p>
 
