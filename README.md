@@ -7,6 +7,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bhanuka-Anjana" alt="Bhanuka-Anjana" /></a> </p>
 
 - 💬 Ask me about **Windows Presentation Foundation(WPF),MERN,ASP.NET Core & Angular**
+- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **ASP.NET Core**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **bhanuka2500@gmail.com**
 
