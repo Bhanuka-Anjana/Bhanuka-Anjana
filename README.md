@@ -26,9 +26,7 @@
 <!-- Add gmail -->
 <a href="mailto:bhanuka2500@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="gmail" height="30" width="40" /></a>
 <!-- twitter -->
-<a href="https://twitter.com/bhanuka anjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhanuka anjana" height="30" width="40" /></a>
-<!-- instar -->
-<a href="https://instagram.com/bhanuka_anjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhanuka_anjana" height="30" width="40" /></a>
+<a href="https://x.com/BhanukaAnjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhanuka anjana" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bhanuka anjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhanuka anjana" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bhanuka2500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhanuka2500" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/bhanuka_anjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="bhanuka_anjana" height="30" width="40" /></a>
