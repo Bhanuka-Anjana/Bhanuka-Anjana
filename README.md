@@ -21,14 +21,18 @@
 
 <p align="center">
   <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"/> </h2>
+<!-- Add whatsapp -->
+<a href="https://wa.me/94779262628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
+</p>
+<!-- Add gmail -->
+<a href="mailto:bhanuka2500@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
+<!-- twitter -->
 <a href="https://twitter.com/bhanuka anjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhanuka anjana" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhanuka anjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhanuka anjana" height="30" width="40" /></a>
+<!-- instar -->
 <a href="https://instagram.com/bhanuka_anjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhanuka_anjana" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bhanuka anjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhanuka anjana" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bhanuka2500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhanuka2500" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/bhanuka_anjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="bhanuka_anjana" height="30" width="40" /></a>
-</p>
-
 <p>&nbsp;</p>
 
 ## Languages and Tools that I've passionated in <img align="bottom" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=24px />
