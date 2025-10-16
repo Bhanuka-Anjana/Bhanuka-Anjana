@@ -5,7 +5,7 @@
 
 ## About Me
 
-<img align="right" height="300px" width="450px" alt="Github" src="https://github.com/Bhanuka-Anjana/Bhanuka-Anjana/blob/main/6Ff.gif" />
+<img align="right" height="200px" width="450px" alt="Github" src="https://github.com/Bhanuka-Anjana/Bhanuka-Anjana/blob/main/6Ff.gif" />
 
 ```
 - 🔭 Hustler.
