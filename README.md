@@ -10,11 +10,13 @@
 ```
 - 🔭 Hustler.
   
-- ⚡ Robotic Enthusiastic 
+- ⚡ Firmware Enthusiastic 
   
 - 👯 I'd love to help others.
   
-- 💬 Ask me about Microcontrollers and Digital Design.
+- 💬 When not trying to figure out how my computer actually
+      works, I like to ski, hike, travel, and spend time with
+      loved ones.
   
 -  Fun fact: 死ぬ前に日本にいたい. 
 ```
