@@ -12,8 +12,6 @@
   
 - ⚡ Firmware Enthusiastic 
   
-- 👯 I'd love to help others.
-  
 - 💬 When not trying to figure out how my computer actually
      works, I like to travel, surf, and spend time with
      loved ones.
