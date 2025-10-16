@@ -5,7 +5,7 @@
 
 ## About Me
 
-<img align="right" height="210px" width="450px" alt="Github" src="https://github.com/Bhanuka-Anjana/Bhanuka-Anjana/blob/main/6Ff.gif" />
+<img align="right" height="250px" width="450px" alt="Github" src="https://github.com/Bhanuka-Anjana/Bhanuka-Anjana/blob/main/6Ff.gif" />
 
 ```
 - 🔭 Hustler.
@@ -15,8 +15,8 @@
 - 👯 I'd love to help others.
   
 - 💬 When not trying to figure out how my computer actually
-      works, I like to ski, hike, travel, and spend time with
-      loved ones.
+     works, I like to travel, surf, and spend time with
+     loved ones.
   
 -  Fun fact: 死ぬ前に日本にいたい. 
 ```
